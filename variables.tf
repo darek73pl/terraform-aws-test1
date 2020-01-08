@@ -1,5 +1,3 @@
-variable access_key {}
-variable secret_key {}
 
 variable test_vcp_cidr {
     type    = string
